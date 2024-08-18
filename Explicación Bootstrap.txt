@@ -1,0 +1,1 @@
+Para mi proyecto, decidí utilizar boostrap para hacer un Carrusel de imágenes. :-)
